@@ -2,9 +2,9 @@
 
 ### <h3 align="left"><font face="Arial"><a href="https://www.linkedin.com/in/ambrose-m-/" target="_blank" rel="noreferrer">Ambrose</a> is a Software Engineering student at ALX. I currently work as a Data Analyst at Prospector LLC.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gich-M&layout=compact)](https://github.com/Gich-M/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gich-M&layout=compact&card_width=400)](https://github.com/Gich-M/github-readme-stats)
 
-![Ambrose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gich-M&show_icons=true&theme=radical)
+![Ambrose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gich-M&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=Gich-M&theme=highcontrast)](https://git.io/streak-stats)
 
 ## Languages and Tools:
 <!-- GIF -->
