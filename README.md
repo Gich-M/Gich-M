@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ambrose
 
-### <h3 align="left"><font face="Arial"><a href="https://www.linkedin.com/in/ambrose-m-/" target="_blank" rel="noreferrer">Ambrose</a> is a Software Engineering student at ALX. I currently work as a Junior Quality Assurance Tester at Internet Sciences Inc.
+### <h3 align="left"><font face="Arial"><a href="https://www.linkedin.com/in/ambrose-m-/" target="_blank" rel="noreferrer">Ambrose</a> is a Software Engineering student at ALX. I currently work as a Full-stack Developer at Internet Sciences Inc.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gich-M&layout=compact&card_width=400&theme=highcontrast)](https://github.com/Gich-M/github-readme-stats)
 
