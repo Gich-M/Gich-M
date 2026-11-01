@@ -1,44 +1,57 @@
-# Hi 👋, I'm Ambrose
+# Ambrose Muriuki
 
-### <h3 align="left"><font face="Arial"><a href="https://www.linkedin.com/in/ambrose-m-/" target="_blank" rel="noreferrer">Ambrose</a> is a Software Engineer currently working as a Full-stack Developer at Internet Sciences Inc.
+**Software Engineer & Founder — [YieldCue](https://yieldcue.com)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gich-M&layout=compact&card_width=400&theme=highcontrast)](https://github.com/Gich-M/github-readme-stats)
+[LinkedIn](https://www.linkedin.com/in/ambrose-m-/) · [GitHub](https://github.com/Gich-M) · [yieldcue.com](https://yieldcue.com)
 
-![Ambrose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gich-M&show_icons=true&theme=highcontrast)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=Gich-M&theme=highcontrast)](https://git.io/streak-stats)
+---
 
-## Languages and Tools:
-<!-- GIF -->
-<img align="right" height="270" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+I build backend systems, APIs, and cloud-native full-stack products with **Python/Django** and **TypeScript/Next.js**. I'm the founder of [YieldCue](https://github.com/Gich-M/YieldCue), an open-source outcome-monitoring platform that catches the "green but wrong" failures in automation workflows — where a job reports success but the business gets no result.
 
-<!-- Scripting Section -->
-<h4><font size="+1" face="Tahoma">Scripting:</font></h4>
-<p align="left">
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="100" height="100"/>
-    </a>
-    <a href="https://golang.org/" target="_blank" rel="noreferrer">
-        <img src="https://perisync.com/images/gocc.gif" alt="golang" width="170" height="100"/>
-    </a>
-</p>
+## Currently building
 
-<!-- Languages Section -->
-<h4><font size="+1" face="Tahoma">Languages:</font></h4>
-<p>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="170" height="100"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="170" height="100"/>
-    </a>
-</p>
+**[YieldCue](https://yieldcue.com)** — outcome monitoring for production automation workflows.
 
-- #### 🔭 I’m currently working on improving my coding skills.
-- #### 👯 I’m open to collaborating on Software Engineering projects.
+- Detects silent workflow failures that execution monitoring misses, via presence, volume, correctness, and freshness checks.
+- Self-hosted (one container, one SQLite file) and cloud offerings; no telemetry.
+- Stack: TypeScript, Next.js, PostgreSQL, Cloudflare Workers, Supabase, Hono, HTMX.
+- I lead product, backend, frontend, and integrations, and work directly with customers to validate direction.
 
-# Contact
-* [LinkedIn](https://www.linkedin.com/in/ambrose-m-/)
-* [Twitter](https://twitter.com/gich_mk)
-* [Email](mailto:gichmuriuki21@gmail.com)
+## Experience
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Ambrose"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ambrose" /></a></p><br><br>
+| Period | Role |
+|---|---|
+| 2026 – present | **Founder**, YieldCue (self-employed, remote) |
+| 2025 – 2026 | **Full-stack Developer**, Internet Sciences Inc. (part-time, remote) |
+| 2024 – 2025 | **QA Tester**, Internet Sciences Inc. (part-time, remote) |
+| 2023 – 2025 | **AI Trainer**, Pareto.AI (part-time, remote) |
+
+Earlier roles in data analysis and technical writing. Highlights:
+
+- Designed REST APIs for IoT devices in Python/Django and integrated MQTT, AMQP, CoAP, HTTP/HTTPS, TCP, and WebSocket for reliable device communication.
+- Built data ingestion and processing pipelines with Django ORM and PostgreSQL.
+- Shipped and optimized services on AWS and Cloudflare Workers.
+- Evaluated code correctness and produced programming datasets for LLM training.
+
+## Skills
+
+**Languages** — TypeScript, JavaScript, Python, C, SQL
+
+**Frameworks** — Next.js, React, Django, Django REST Framework, Hono, HTMX
+
+**Cloud & infrastructure** — Cloudflare Workers, AWS, Supabase, Docker, PostgreSQL, MongoDB, SQLite
+
+**Backend & integration** — REST APIs, webhooks, MQTT, AMQP, CoAP, HTTP/HTTPS, TCP, WebSocket
+
+**Other** — Git, Linux, technical documentation, data analysis
+
+## Education
+
+- **BSc, Information Technology** — Taita Taveta University (2017 – 2022)
+- **Certificate, Software Engineering** — ALX Africa (2023 – 2025)
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/ambrose-m-/)
+- [GitHub](https://github.com/Gich-M)
+- [yieldcue.com](https://yieldcue.com)
