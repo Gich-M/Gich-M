@@ -7,8 +7,8 @@ lost money.
 
 ⭐ [Star YieldCue on GitHub](https://github.com/Gich-M/YieldCue) · 💬 [Join the discussion](https://github.com/Gich-M/YieldCue/discussions)
 
-**Stack:** TypeScript · Next.js · Cloudflare Workers · Supabase · PostgreSQL · Python · Django
+**Stack:** TypeScript · Next.js · PostgreSQL · Python · Django
 
-Open to contract work: [get in touch](https://www.linkedin.com/in/ambrose-m-/)
+Open to contract work: [get in touch](gichmuriuki21@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/ambrose-m-/) · [yieldcue.com](https://yieldcue.com)
