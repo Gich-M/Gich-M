@@ -1,9 +1,14 @@
 # Ambrose Muriuki
 
-Software engineer & founder of [YieldCue](https://yieldcue.com).
+Software engineer and founder of [YieldCue](https://yieldcue.com), an open-source
+outcome monitoring tool that catches "green but wrong" failures in n8n, Make,
+Zapier and cron workflows: the job ran, reported success, and the business still
+lost money.
 
-Building open-source outcome monitoring that catches the "green but wrong" failures in automation workflows.
+⭐ [Star YieldCue on GitHub](https://github.com/Gich-M/YieldCue) · 💬 [Join the discussion](https://github.com/Gich-M/YieldCue/discussions)
 
-TypeScript · Next.js · Python · Django · PostgreSQL
+**Stack:** TypeScript · Next.js · Cloudflare Workers · Supabase · PostgreSQL · Python · Django
 
-[LinkedIn](https://www.linkedin.com/in/ambrose-m-/) · [GitHub](https://github.com/Gich-M) · [yieldcue.com](https://yieldcue.com)
+Open to contract work: [get in touch](https://www.linkedin.com/in/ambrose-m-/)
+
+[LinkedIn](https://www.linkedin.com/in/ambrose-m-/) · [yieldcue.com](https://yieldcue.com)
