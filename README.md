@@ -9,6 +9,6 @@ lost money.
 
 **Stack:** TypeScript · Next.js · PostgreSQL · Python · Django
 
-Open to contract work: [get in touch](gichmuriuki21@gmail.com)
+Open to contract work: [email me](mailto:gichmuriuki21@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/ambrose-m-/) · [yieldcue.com](https://yieldcue.com)
